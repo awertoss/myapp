@@ -1,5 +1,5 @@
 image_frontend:
-  repository: "valdem88/myapp"
+  repository: "awertoss/myapp"
   tag: ""
 
 image:
