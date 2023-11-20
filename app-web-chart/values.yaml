@@ -1,8 +1,0 @@
-image_frontend:
-  repository: "awertoss/myapp"
-  tag: ""
-
-image:
-  tag: "1.0.1"
-
-namespace: ""
